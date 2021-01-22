@@ -1,6 +1,5 @@
 /*
-* Copyright (c) 2020
-*
+
 * This program asks user to enter the maximum range of random generated number,
 * generates a number between 1 and maximum range and prints it to the user.
 *
